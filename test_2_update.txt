@@ -1,0 +1,5 @@
+roobo	北京-朝阳区
+银河SOHO	C座	
+sys-entityroobo	北京-朝阳区
+银河SOHO	C座	
+sys-entity
